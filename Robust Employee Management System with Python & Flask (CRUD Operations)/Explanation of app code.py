@@ -1,5 +1,3 @@
-Sure! Here's an explanation of each part of the code:
-
 ### 1. **Importing necessary modules:**
    ```python
    from flask import Flask, render_template, request, redirect
