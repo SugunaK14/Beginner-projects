@@ -1,4 +1,7 @@
-## This project is a full-stack web application designed to manage employee records using Python, Flask, and SQLite. The system allows users to perform CRUD (Create, Read, Update, Delete) operations on employee data such as name, department, salary, and hire date. It's a simple yet effective tool for businesses to keep track of their employees in an organized, web-based environment.
+## This project is a full-stack web application designed to manage employee records using Python, Flask, and SQLite. The system allows users to perform CRUD (Create, Read, Update, Delete) operations on employee data such as name, department, salary, and hire date. 
+
+## It's a simple yet effective tool for businesses to keep track of their employees in an organized, web-based environment.
+
 ## The app features:
 	• Employee Data Entry: Adds employee records with relevant details (name, department, salary, hire date).
 	• Employee Record Viewing: Displays a list of all employees in a structured format.
